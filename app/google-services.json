@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "146855518798",
+    "firebase_url": "https://proud-outpost-127616.firebaseio.com",
+    "project_id": "proud-outpost-127616",
+    "storage_bucket": "proud-outpost-127616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146855518798:android:319400cec7036b3f",
+        "android_client_info": {
+          "package_name": "com.example.xtrem.applicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146855518798-44metjr4pd9jafk8eh5il7qiq9hrrlsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xtrem.applicationtest",
+            "certificate_hash": "B350D0A1188856D99BCF7607D30374B5CCED1382"
+          }
+        },
+        {
+          "client_id": "146855518798-r21su01h02tpgs0k9u2ac5s3sp0j0lrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaQXQ2QxLFM3VwJdMhCgH7MFp34FFrK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146855518798-r21su01h02tpgs0k9u2ac5s3sp0j0lrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

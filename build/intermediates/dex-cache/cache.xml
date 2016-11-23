@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.8.0_f692babfd276c6f7750f43e2c9d64bd3c1dd22e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_aff6afb85e067a5aafa617d6f13dd7d35729d6f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_bbb596c453d28dff30a60a08aaac7f6e1364466b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_3b486f5bfe88a9bb8e214bcb127892fe2ee9561a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_b1779b2dae3fac8857d1cdacd1aef2b2866293f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_bab4c0b75f5e487ba57f3c2a5e5ecab770b36d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_7ac9e41925aba2569f9d76357e2558c67a8f734c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_c95552717c9a3f48c7d258a3453ad977705ce81b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_b1ea9e14d3052fbba2bf26dd61eea5c1e1b20088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_afa28ef52579cc0b28f3e5edfb74276219ad8f77\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_d56f760ef7c91ddb16b72733a23dc8916c5ba67c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_dc7c14a6fd487b93080886186d149d90ebae19c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b077548e2c1efeb193d1cbfa8d7ae1cf499ef23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.8.0_7d674a50b2556e0396b13e17933ccfa33454545d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_f2b6cea0a80fd398274db8cd0e6856d9fef6aa1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.17.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.17.0_b19ce146459362f874b27f2bb440fa598001a9a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_b45314ad4efadb101346ec71d302c1c1db875ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_465a6f4164de4f72fd4ca8005d7db924cf6d32b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_e277990303b39cdae9bfbd9b08e3df9c487d1f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_3898c3c6df64e5a2b7b4ca89afaee44a1b30cf36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_2220a04651da1fa74fe9043eeaa8cd10ff1ed86b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b1b69d8c03e050d549c844d5bf8200d74d6866c">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a43ad5e4f9134837233470fa4a285e564a3587c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_4708355b7d1d8e8bb813c7656cfbcd77c149792b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-9.8.0_603bb601f58e114d722ef9a54e87bfe951f5b234.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_83aba93eb51e50192b9b0086a13d8ca34ad10274\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_ce77eb4bd056f0e92d1e5dc5337546a064dbf16a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_e505905f647507eec3f5b9bb75e7645b23552bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_833692511c41c20e362ff50bca901a814b0caf32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0abbf649fd7859a02086ff6780dbd94a9e890ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_de6321d58b190f694d587e1335ca9bd76ef72c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.8.0_f6420ab27bb857479374a2a86457131c5c624371.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_9911864dab539530d815654b03ee305398041265\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_a9a63006569a0dd687d2bc89e6d76e52692abe70.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_f692babfd276c6f7750f43e2c9d64bd3c1dd22e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_bbb596c453d28dff30a60a08aaac7f6e1364466b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_88fdbf9c05fc47fdcc05f1966085f85d03c72afa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_ee199131e4df8b9d612d9ad718e38dce9401f1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_898aa862661039c888f1778b6d4fc0b3ed218e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_3b486f5bfe88a9bb8e214bcb127892fe2ee9561a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_82f6b425cc83f1443975599a9a906a0e2f910c0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_3bbd9547cd36534b9dcd6602aa2e1bf5e37587b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_a9c8b3f5dcaa9ac418894c6d810c78fcd24b0aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_bab4c0b75f5e487ba57f3c2a5e5ecab770b36d6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_4f87756556b5cb69a9b20a5b36eabeb026a36596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_46f439ceefcd9f39d54aabad487698fdeb914c86\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_185c47a2933a1ae443cefba1b705033c0515306c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_5694f00236234603d2d7c5e38d198b9f2a235ecf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_d56f760ef7c91ddb16b72733a23dc8916c5ba67c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.8.0_afa28ef52579cc0b28f3e5edfb74276219ad8f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_dedd473db897444b2b8bacad604575bd1a57c861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.8.0_5c3e2aba3c5865969fa5085896809b3b575352a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-9.8.0_dc7c14a6fd487b93080886186d149d90ebae19c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_1c39b1fbaf45b4bca80eeef5d07113cee92cf7f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.8.0_83aba93eb51e50192b9b0086a13d8ca34ad10274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_cf7b9f00d79c255ab2214853da24818a05a2bbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_f2b6cea0a80fd398274db8cd0e6856d9fef6aa1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_833692511c41c20e362ff50bca901a814b0caf32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_b45314ad4efadb101346ec71d302c1c1db875ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_465a6f4164de4f72fd4ca8005d7db924cf6d32b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_2c6d38cf351e7310733ee0078fd1ee3a3380abd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_a41a72f6777829788f0024d72461d8777afb8de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.17.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.17.0_b19ce146459362f874b27f2bb440fa598001a9a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_7d674a50b2556e0396b13e17933ccfa33454545d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_f6420ab27bb857479374a2a86457131c5c624371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_382ba382823454a53fba1a4edce30db19cc2bc9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_3898c3c6df64e5a2b7b4ca89afaee44a1b30cf36\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_e277990303b39cdae9bfbd9b08e3df9c487d1f80.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_e505905f647507eec3f5b9bb75e7645b23552bec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_2220a04651da1fa74fe9043eeaa8cd10ff1ed86b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_dfbe2ffa0a6a9ab8bc5033dbe266465c281f3872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_603bb601f58e114d722ef9a54e87bfe951f5b234\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.8.0_4708355b7d1d8e8bb813c7656cfbcd77c149792b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_de6321d58b190f694d587e1335ca9bd76ef72c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_dbfe18d8dfebfaf0c79e4f3b6c6a6859e8289c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_127b6c8ca958ea43965ab5f3d0d23b3c09b13036.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_29f7297693ceb241b523627efd868e2c335641c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_7472bfe5e69b5362f1b0a57c1f91ed9ee555c13b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_808f17b1ee2e69b1d46dc8cc5f117be2c7a8ae63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_88fdbf9c05fc47fdcc05f1966085f85d03c72afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.8.0_ee199131e4df8b9d612d9ad718e38dce9401f1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_898aa862661039c888f1778b6d4fc0b3ed218e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_ff931573e504b6472bb970522ae01b3ed5745978.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_a840293c965479818136b88a3d844306bfc131df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_d13d8fdd4394dbcd495e4c310fee7c86128aefb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4547cf68a80e6209e8022576504c341add20e321\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_0fb73e716453f097c36e4fbbddc746cad29d80cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_82f6b425cc83f1443975599a9a906a0e2f910c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_19e57a3bbf8d59baa25c8fcf5271f4a9d14c9dd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_4f87756556b5cb69a9b20a5b36eabeb026a36596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_c01353b22a7c6ce4b62cbf3ee09b53a82f3595f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.8.0_a9c8b3f5dcaa9ac418894c6d810c78fcd24b0aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_ee7544230ca94a796105bd81cba7a3492b6d9f55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_bd8fd1fa5f80a0197c573e9225f2a7f795d79cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_5694f00236234603d2d7c5e38d198b9f2a235ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.8.0_46f439ceefcd9f39d54aabad487698fdeb914c86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_d7594176cc6fb16267b4d445cdf5d2912ebae205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_dedd473db897444b2b8bacad604575bd1a57c861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_185c47a2933a1ae443cefba1b705033c0515306c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_d9e237b53ef0e451398503b50038f8635a7cca54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_277518e474943b8fbe8e557aa3e3b2be25c5c42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_5c3e2aba3c5865969fa5085896809b3b575352a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_09b70511ee847fcd2d0c815ee65f15330a40dc3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_09b70511ee847fcd2d0c815ee65f15330a40dc3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_9175a31675e8e36cd829778fb9c6607af3e618b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_2c6d38cf351e7310733ee0078fd1ee3a3380abd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_1c39b1fbaf45b4bca80eeef5d07113cee92cf7f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_9088f8fd09181479f694d6f7c34c18e7fb4788da\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_dfbe2ffa0a6a9ab8bc5033dbe266465c281f3872.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_12c824dd2a7f496a3f68dc11a91e5e9009c76361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_a41a72f6777829788f0024d72461d8777afb8de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_cf7b9f00d79c255ab2214853da24818a05a2bbbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_b106f8235da40cd8bfe6d074788c4c6327c99b26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.8.0_8acc0fac8e7c135d3fbd6a92c4d60947c59df33b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_127b6c8ca958ea43965ab5f3d0d23b3c09b13036\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_382ba382823454a53fba1a4edce30db19cc2bc9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_3bbd9547cd36534b9dcd6602aa2e1bf5e37587b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_a840293c965479818136b88a3d844306bfc131df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_808f17b1ee2e69b1d46dc8cc5f117be2c7a8ae63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_7472bfe5e69b5362f1b0a57c1f91ed9ee555c13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9c0dee82222af40b67573e1c303168a5362fa903.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_aff6afb85e067a5aafa617d6f13dd7d35729d6f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b3d7413b63ead73bd30b0fd9301f7505ffcfc8">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_21f5662e724b67abdc65dd9ff5b0073149196ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_ff931573e504b6472bb970522ae01b3ed5745978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b077548e2c1efeb193d1cbfa8d7ae1cf499ef23c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4547cf68a80e6209e8022576504c341add20e321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_29f7297693ceb241b523627efd868e2c335641c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_19e57a3bbf8d59baa25c8fcf5271f4a9d14c9dd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_c01353b22a7c6ce4b62cbf3ee09b53a82f3595f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_d13d8fdd4394dbcd495e4c310fee7c86128aefb8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_c95552717c9a3f48c7d258a3453ad977705ce81b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.8.0_bd8fd1fa5f80a0197c573e9225f2a7f795d79cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.8.0_dbfe18d8dfebfaf0c79e4f3b6c6a6859e8289c17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_b1779b2dae3fac8857d1cdacd1aef2b2866293f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.8.0_b1ea9e14d3052fbba2bf26dd61eea5c1e1b20088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_d7594176cc6fb16267b4d445cdf5d2912ebae205.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_d9e237b53ef0e451398503b50038f8635a7cca54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_7ac9e41925aba2569f9d76357e2558c67a8f734c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_277518e474943b8fbe8e557aa3e3b2be25c5c42c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_ce77eb4bd056f0e92d1e5dc5337546a064dbf16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_12c824dd2a7f496a3f68dc11a91e5e9009c76361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_9175a31675e8e36cd829778fb9c6607af3e618b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_b106f8235da40cd8bfe6d074788c4c6327c99b26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_8acc0fac8e7c135d3fbd6a92c4d60947c59df33b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_af14ce674d4b53171a1bd89697782ced712a34aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_9088f8fd09181479f694d6f7c34c18e7fb4788da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_ee7544230ca94a796105bd81cba7a3492b6d9f55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9c0dee82222af40b67573e1c303168a5362fa903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0abbf649fd7859a02086ff6780dbd94a9e890ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_0fb73e716453f097c36e4fbbddc746cad29d80cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_a9a63006569a0dd687d2bc89e6d76e52692abe70\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\xtrem\Desktop\ApplicationTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_9911864dab539530d815654b03ee305398041265.jar" />
+    </item>
+
+</items>

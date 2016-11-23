@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffc1f9"
+    android:id="@+id/RelativeLayout"
+    android:layout_gravity="bottom"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:id="@+id/RelativeLayout2"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="rYYCer"
+            android:id="@+id/TextView1"
+            android:textSize="30pt"
+            android:textColor="#3a3a3a"
+            android:layout_marginTop="44dp"
+            android:layout_centerHorizontal="true"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A New Way to Ride."
+            android:textSize="12pt"
+            android:id="@+id/TextView2"
+            android:layout_below="@id/TextView1"
+            android:layout_centerHorizontal="true"
+            android:padding="10pt"
+            android:textColor="#3a3a3a"
+
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOGIN"
+            android:id="@+id/LoginButton"
+            android:textSize="8pt"
+            android:fontFamily="sans-serif-condensed"
+            android:textStyle="normal"
+            android:textColor="#3a3a3a"
+            android:background="@drawable/button_border"
+            android:foregroundGravity="bottom"
+            android:layout_above="@+id/SignUpButton"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="5pt"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SIGN UP"
+            android:id="@+id/SignUpButton"
+            android:textSize="8pt"
+            android:fontFamily="sans-serif-condensed"
+            android:textStyle="normal"
+            android:textColor="#3a3a3a"
+            android:background="@drawable/button_border"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="5pt"/>
+
+
+    </RelativeLayout>
+</RelativeLayout>

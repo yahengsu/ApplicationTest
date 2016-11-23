@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Distance"
+        android:id="@+id/leaderboardDistanceButton"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5pt"
+        android:layout_marginBottom="10pt"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating"
+        android:id="@+id/leaderboardRatingButton"
+        android:layout_toLeftOf="@id/leaderboardDistanceButton"
+        android:layout_margin="5pt"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rides"
+        android:layout_toEndOf="@id/leaderboardDistanceButton"
+        android:layout_toRightOf="@id/leaderboardDistanceButton"
+        android:layout_margin="5pt"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+        <TextView
+            android:id="@+id/leaderboard1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30pt"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Yasung : 5.0"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard2"
+            android:layout_below="@id/leaderboard1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="xx123aa : 5.0"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard3"
+            android:layout_below="@id/leaderboard2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Bokay : 4.9"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard4"
+            android:layout_below="@id/leaderboard3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Joko : 4.8"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard5"
+            android:layout_below="@id/leaderboard4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="DDeck : 4.6"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard6"
+            android:layout_below="@id/leaderboard5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Touche : 4.5"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard7"
+            android:layout_below="@id/leaderboard6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Faker : 4.5"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard8"
+            android:layout_below="@id/leaderboard7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="CoreJJ : 4.4"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard9"
+            android:layout_below="@id/leaderboard8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Bengi : 4.4"
+            android:padding="3pt"/>
+        <TextView
+            android:id="@+id/leaderboard10"
+            android:layout_below="@id/leaderboard9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="10pt"
+            android:text="Ambition : 4.4"
+            android:padding="3pt"/>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

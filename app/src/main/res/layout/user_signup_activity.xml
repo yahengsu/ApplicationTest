@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:id="@+id/RelativeLayoutSignUp"
+
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textFirstName"
+        android:text="First Name: "
+        android:layout_marginLeft="4pt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textLastName"
+        android:text="Last Name: "
+        android:layout_below="@id/textFirstName"
+        android:layout_marginTop="13pt"
+        android:layout_alignLeft="@id/textFirstName"
+        android:layout_alignStart="@id/textFirstName"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textUsername"
+        android:layout_below="@id/textLastName"
+        android:text="Email Address : "
+        android:layout_marginTop="13pt"
+        android:layout_alignLeft="@id/textFirstName"
+        android:layout_alignStart="@id/textFirstName"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textPassword"
+        android:layout_below="@id/textUsername"
+        android:text="Password : "
+        android:layout_marginTop="13pt"
+        android:layout_alignLeft="@id/textFirstName"
+        android:layout_alignStart="@id/textFirstName"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textPhoneNumber"
+        android:text="Phone Number: "
+        android:layout_below="@id/textPassword"
+        android:layout_marginTop="13pt"
+        android:layout_alignLeft="@id/textFirstName"
+        android:layout_alignStart="@id/textFirstName" />
+
+    <AutoCompleteTextView
+        android:layout_width="110pt"
+        android:layout_height="wrap_content"
+        android:id="@+id/editPhoneNumber"
+        android:inputType="phone"
+        android:hint="(403) 122- 9123"
+        android:textColorHint="#d8d8d8"
+        android:layout_below="@+id/editPassword"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <AutoCompleteTextView
+        android:id="@+id/editFirstName"
+        android:inputType="textPersonName"
+        android:hint="John"
+        android:textColorHint="#d8d8d8"
+        android:layout_width="110pt"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editLastName"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <AutoCompleteTextView
+        android:layout_width="110pt"
+        android:layout_height="wrap_content"
+        android:id="@+id/editEmail"
+        android:inputType="textEmailAddress"
+        android:hint="johnsmith11@gmail.com"
+        android:textColorHint="#d8d8d8"
+        android:layout_above="@+id/editPassword"
+        android:layout_alignLeft="@+id/editLastName"
+        android:layout_alignStart="@+id/editLastName" />
+
+    <AutoCompleteTextView
+        android:layout_width="110pt"
+        android:layout_height="wrap_content"
+        android:id="@+id/editLastName"
+        android:inputType="textPersonName"
+        android:hint="Smith"
+        android:textColorHint="#d8d8d8"
+        android:layout_above="@+id/editEmail"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <AutoCompleteTextView
+        android:layout_width="110pt"
+        android:layout_height="wrap_content"
+        android:id="@+id/editPassword"
+        android:inputType="textPassword"
+        android:hint="********"
+        android:textColorHint="#d8d8d8"
+        android:layout_alignTop="@+id/textPassword"
+        android:layout_alignLeft="@+id/editPhoneNumber"
+        android:layout_alignStart="@+id/editPhoneNumber" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:id="@+id/SignUpActivityButton"
+        android:background="#ffc1f9"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="5pt"/>
+
+
+
+</RelativeLayout>
